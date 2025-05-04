@@ -21,11 +21,11 @@ This system uses a **CNN-LSTM hybrid model** along with **MediaPipe Pose Estimat
 
 ## 🚀 Features
 
-- ✅ Real-time human pose tracking using MediaPipe
-- ✅ Fall detection using a CNN-LSTM hybrid model
-- ✅ Emergency WhatsApp alert system using Twilio API
-- ✅ Custom dataset designed for elderly fall scenarios
-- ✅ Tested in simulated real-world environments
+-  Real-time human pose tracking using MediaPipe
+-  Fall detection using a CNN-LSTM hybrid model
+-  Emergency WhatsApp alert system using Twilio API
+-  Custom dataset designed for elderly fall scenarios
+-  Tested in simulated real-world environments
 
 ---
 
