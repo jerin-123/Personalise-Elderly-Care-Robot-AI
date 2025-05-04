@@ -30,5 +30,64 @@ This system uses a **CNN-LSTM hybrid model** along with **MediaPipe Pose Estimat
 ---
 
 ## 🗂️ Project Structure
+📁 Elderly-Care-Robot-AI
+├── data/ 
+├── model/
+│ ├── cnn_lstm_model.py 
+│ └── mediapipe_integration.py
+├── alerts/
+│ └── whatsapp_alert.py 
+├── results/ # Model evaluation, accuracy, confusion matrix
+├── requirements.txt 
+└── presentation/
+└── thesis_presentation.pdf
+
+
+
+
+## 🧪 Tech Stack
+
+- **Python 3.9**
+- **TensorFlow / Keras**
+- **OpenCV**
+- **MediaPipe**
+- **Twilio API (for WhatsApp alerts)**
+- **NumPy / Pandas / Matplotlib**
+
+
+
+## 📊 Results
+
+| Metric         | Value      |
+|----------------|------------|
+| Accuracy       | 94.3%      |
+| Precision      | 92.7%      |
+| Recall         | 95.1%      |
+| F1-Score       | 93.9%      |
+
+---
+
+## 📎 Demo & Presentation
+
+- [🎥 Demo Video (GDrive link)](https://drive.google.com/file/d/11hjquuT9iIXKGLJ-1nwzi9QfCVzAjH9G/view?usp=drive_link))
+- [📑 Full Thesis Presentation (PPT)](https://drive.google.com/file/d/1rXS4KMhFUSkDF60JdE9hZ1-gCr7v03eA/view?usp=drive_link)
+
+---
+
+## 📬 Contact
+
+**Jerin Joseph**  
+🎓 M.Sc. Student, Technische Hochschule Deggendorf  
+📧 myselfjeri@hotmail.com  
+🔗 https://www.linkedin.com/in/jerin-joseph10/
+
+---
+
+## ⭐ Acknowledgements
+
+- Supervisor: **Ginu Paul Alunkal**
+- Open-source tools by Google MediaPipe, TensorFlow, and Twilio
+
+---
 
 
